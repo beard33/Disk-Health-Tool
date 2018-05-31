@@ -1,5 +1,5 @@
 # Disk-Health-Tool
-These are two script i found on the internet to know the health state of your drive (**TESTED ONLY ON SAMSUNG SSD**) thanks to the SMART monitoring system and *sistemctl*.
+These are two script I found on the internet to know the health state of your drive (**TESTED ONLY ON SAMSUNG SSD**) thanks to the SMART monitoring system and *sistemctl*.
 In order to use this script you have to:
 
 - Check if your SSD support SMART monitoring tool
