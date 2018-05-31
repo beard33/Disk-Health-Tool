@@ -4,7 +4,7 @@ In order to use this script you have to:
 
 - Check if your SSD support SMART monitoring tool
 - Install ```smartmontools```
-- Give the script execution permission, by runnig ``` sudo chmod +x script_name```
+- Give the script execution permissions, by running ``` sudo chmod +x script_name```
 ## Differences:
 The two scripts differ for the informations that are displayed:
 - **./tbw.sh** displays how many GB have been written on the disk. Use example:
