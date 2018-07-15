@@ -1,5 +1,5 @@
 # Disk-Health-Tool
-These are two script I found on the [internet*](https://askubuntu.com/questions/865792/how-can-i-monitor-the-tbw-on-my-samsung-ssd) to know the health state of your drive (**TESTED ONLY ON SAMSUNG SSD**) thanks to the SMART monitoring system and *sistemctl*.
+These are two script I found on the [internet*](http://www.jdgleaver.co.uk/blog/2014/05/23/samsung_ssds_reading_total_bytes_written_under_linux.html) to know the health state of your drive (**TESTED ONLY ON SAMSUNG SSD**) thanks to the SMART monitoring system and *sistemctl*.
 In order to use this script you have to:
 
 - Check if your SSD support SMART monitoring tool
