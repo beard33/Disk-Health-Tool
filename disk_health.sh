@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Don't waste resources if user is not sudoer
+if [ "$EUID" -ne 0 ]
+    then echo "Run as sudo."
+    exit
+fi
+
 #######################################
 # Variables                           #
 #######################################
